@@ -1,0 +1,119 @@
+.top_container{
+    background-color: #EAF6F6;
+    padding-top: 30px;
+}
+.dp{
+    width: 200px;
+}
+.skills1{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+
+}
+.skills2{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+
+body{
+margin: 0px;
+text-align: center;
+font-family: 'Merriweather', serif;
+}
+h1{ font-size: 5.625rem;
+    margin: 50 auto 0 auto;  
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+.bottom-cloud{
+    position:absolute;
+    left:500px;
+}
+.top-cloud{
+    position: relative;
+    left: 200px;
+    top:7px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    padding-bottom: 10px;
+}
+hr{
+    border-style: dotted none none none;
+    width: 3%;
+    border-width: 5px;
+    color: #EAF6F6;
+
+}
+p{
+    color: #40514E;
+}
+h3{
+    color: #11999E
+    ;
+}
+.btn {
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 100px;
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 20px;
+    background-color: #66BFBF;
+    -webkit-box-shadow: 1px 1px 12px 0 #000000;
+    -moz-box-shadow: 1px 1px 12px 0 #000000;
+    box-shadow: 1px 1px 12px 0 #000000;
+    text-shadow: 1px 1px 13px #000000;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .btn:hover {
+    background: #66BFBF;
+    border: groove #57CB5F 9px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 100px;
+    text-decoration: none;
+ }
+ .bottom-container{
+    background-color: #66BFBF;
+    margin-bottom: 0px;
+    padding: 50px;
+
+ }
+ .footer-link{
+     color: #11999E;
+     font-family: 'Montserrat', sans-serif;
+     margin-left: 20px;
+     margin-right: 20px;
+     text-decoration: none;
+     
+ }
+ .footer-link:hover{
+     color: #EAF6F6;
+ }
+ .end{
+     font-size: .75rem;
+     color: #EAF6F6;
+ }
